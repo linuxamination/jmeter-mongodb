@@ -13,7 +13,7 @@ To run the test Plan in the JMeter :
 1) Once database is imported, open the mongodb.jmx file in the JMeter.
 2) Put your mongodb parameters in user defined variables section of Test Plan.
 3) Run the test plan. Make sure request 'connect' is always enabled.
-
+________________
 1) If you want to fetch the data using csv, update the csv path, where your csv file is present, in the csv dataset config.
 2) Enable the Loop Controller.
 3) To fetch all the records of csv, Make sure Loop count of Loop Controller should be same as the number of entries in the csv file.
