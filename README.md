@@ -19,3 +19,4 @@ To run the test Plan in the JMeter :
 3) To fetch all the records of csv, Make sure Loop count of Loop Controller should be same as the number of entries in the csv file.
 4) Run the test plan.
 
+
